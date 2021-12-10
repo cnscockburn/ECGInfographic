@@ -1,4 +1,4 @@
-##The ECG: How does it work, and why?
+## The ECG: How does it work, and why?
 The ECG is an important tool that physiologists, clinicians, and researchers use to gain information about the electrical activity of the heart. 
 ## The infographic
 
