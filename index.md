@@ -5,6 +5,7 @@ The ECG is an important tool that physiologists, clinicians, and researchers use
 This infographic was created as part of a coursework assignment for Physiology 1A for Biomedical Engineers, at the University of Bristol.
 ## The references
 
+Picture of heart's conduction system, outline of human body - [Smart, Sevier Medical Art](https://smart.servier.com/)
 
 
 ## Credit
