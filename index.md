@@ -6,13 +6,13 @@ The ECG is an important tool that physiologists, clinicians, and researchers use
 
 This infographic was created as part of a coursework assignment for Physiology 1A for Biomedical Engineers at the University of Bristol.
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/cnscockburn/ECGInfographic/blob/main/Complete%20Poster%20v2.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+![ECG Infographic]()
 
 ## The References
 
 - Picture of heart's conduction system, outline of human body - [Smart, Sevier Medical Art](https://smart.servier.com/)
 
-- Description of ECG waves - D. L. Potter, ‘Understanding an ECG | ECG Interpretation | Geeky Medics’. <https://geekymedics.com/understanding-an-ecg/> (accessed Dec. 16, 2021). More details on ECG interpretation, particularly with regards to the clinical significance of findings, can be found on the [Life In The Fast Lane webpage](https://litfl.com/library/), which has an extensive library of blog posts and more with an emergency medicine focus.
+- Description of ECG waves - D. L. Potter, ‘Understanding an ECG - ECG Interpretation - Geeky Medics’. <https://geekymedics.com/understanding-an-ecg/> (accessed Dec. 16, 2021). More details on ECG interpretation, particularly with regards to the clinical significance of findings, can be found on the [Life In The Fast Lane webpage](https://litfl.com/library/), which has an extensive library of blog posts and more with an emergency medicine focus.
 
 - Instrumentation amplifier circuit - Created using [CircuitDiagram.org](https://www.circuit-diagram.org/) from J. H. Moore, C. C. Davis, M. A. Coplan, and S. C. Greer, Building scientific apparatus, 4th ed. Cambridge, UK; New York: Cambridge University Press, 2009.
 
