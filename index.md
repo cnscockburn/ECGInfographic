@@ -6,7 +6,7 @@ The ECG is an important tool that physiologists, clinicians, and researchers use
 
 This infographic was created as part of a coursework assignment for Physiology 1A for Biomedical Engineers, at the University of Bristol.
 
-<iframe src="http://docs.google.com/gview?url=http://example.com/mypdf.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+<iframe src="http://docs.google.com/gview?url=https://github.com/cnscockburn/ECGInfographic/blob/main/Complete%20Poster%20v1.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
 ## The references
 
